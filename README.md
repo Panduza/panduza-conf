@@ -7,5 +7,5 @@ The repo provides the compatible items of the Panduza Project.
 
 Panduza uses git-repo to manage its configurations, here is instructions to setup git-repo
 
-https://github.com/esrlabs/git-repo
-
+- https://github.com/esrlabs/git-repo
+- https://git-repo.info/en/docs/multi-repos/manifest-format/
