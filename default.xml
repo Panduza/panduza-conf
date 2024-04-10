@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="pza" fetch="https://github.com/Panduza" />
+
+  <project remote="pza" name="panduza-py" revision="main" />
+  <project remote="pza" name="panduza-py-platform" revision="main" />
+
+</manifest>
