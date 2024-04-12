@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+     
   <remote name="pza" fetch="https://github.com/Panduza" />
+  <remote name="local" fetch="https://github.com/Darcraytore1" />
 
-  <project remote="pza" name="panduza-py" revision="main" />
-  <project remote="pza" name="panduza-py-platform" revision="main" />
-
+  <project remote="pza" name="panduza-py-platform" revision="8395fa89eca03e379d54b7534ef505fd399000e2" />
+  <project remote="local" name="Panduza-local-RAPI" revision="b7a00d09a416b3ab7431ee4da77bc2a9dd78469f" />
+  
 </manifest>
