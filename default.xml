@@ -2,8 +2,6 @@
 <manifest>
      
   <remote name="pza" fetch="https://github.com/Panduza" />
-  <remote name="local" fetch="https://github.com/Darcraytore1" />
-  <remote name="cloud" fetch="https://github.com/Lucas-D20" />
 
   <project remote="pza" name="panduza-py-platform" revision="8395fa89eca03e379d54b7534ef505fd399000e2" />
   <project remote="pza" name="Panduza-dev-zone" revision="789990e7b101963687a8e28fab6c86a44dec800f" />
@@ -11,6 +9,6 @@
   <project remote="pza" name="panduza_sandbox_flutter" revision="78217990540eafe39e5bc85340149a5287fe281d" />
   <project remote="pza" name="panduza-py" revision="b90b97b718af83b5d088481f80730365765b4edc" />
   <project remote="pza" name="pza-dev-voxpower-inhibiter" revision="c9519d10f8e34604260a724bbd60d9d3b1f8acfa" />
-  <project remote="local" name="Panduza-local-RAPI" revision="bfe0f0d19a07a5a273bbc84a5913d2e79cebca52" />  
-  <project remote="cloud" name="Panduza-RestAPI-Cloud" revision="275da2ccbb883e858f50f4dd55651a419199d9a2" />
+  <project remote="pza" name="panduza-local-rest-api" revision="bfe0f0d19a07a5a273bbc84a5913d2e79cebca52" />  
+  <project remote="pza" name="panduza-cloud-rest-api" revision="275da2ccbb883e858f50f4dd55651a419199d9a2" />
 </manifest>
