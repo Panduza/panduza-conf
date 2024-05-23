@@ -4,12 +4,13 @@
   <remote name="pza" fetch="https://github.com/Panduza" />
 
   <!-- DOCUMENTATIONS -->
-  <project remote="pza" name="panduza-dev-zone" revision="0.0.0" />
+  <project remote="pza" name="panduza-dev-zone" revision="0.4.0" />
   <project remote="pza" name="panduza-user-guide" revision="0.0.0" />
 
   <!-- CLIENTS -->
-  <project remote="pza" name="panduza-py" revision="0.0.0" />
-  <project remote="pza" name="panduza_sandbox_flutter" revision="0.0.0" />
+  <project remote="pza" name="panduza-py" revision="0.4.0" />
+  <project remote="pza" name="panduza_sandbox_flutter" revision="0.1.0" />
+  <project remote="pza" name="pza-py-plg-abbelight" revision="0.0.0" />
 
   <!-- PLATFORM -->
   <project remote="pza" name="panduza-rust-platform" revision="0.0.0" />
