@@ -3,6 +3,6 @@
 
   <remote name="pza" fetch="https://github.com/Panduza" />
 
-  <project remote="pza" name="pza-dev-voxpower-inhibiter" revision="0.0.0" />
+  <project remote="pza" name="pza-dev-voxpower-inhibiter" revision="0.1.0" />
 
 </manifest>
